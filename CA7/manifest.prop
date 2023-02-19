@@ -1,0 +1,5 @@
+MANIFEST_VERSION = openstlinux-5.15-yocto-kirkstone-mp1-v22.11.23
+KERNEL_DT = ./DeviceTree/m4_fw/kernel
+OPTEE_DT = ./DeviceTree/m4_fw/optee-os
+UBOOT_DT = ./DeviceTree/m4_fw/u-boot
+TFA_DT = ./DeviceTree/m4_fw/tf-a
